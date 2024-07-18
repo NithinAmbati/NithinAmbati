@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithin Ambati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [CAREERCONNECT](https://careerconnect-neon.vercel.app)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on [CAREERCONNECT](https://careerconnect-neon.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://nithin-portfolio-xi.vercel.app](https://nithin-portfolio-xi.vercel.app)
 
